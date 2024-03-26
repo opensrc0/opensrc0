@@ -96,9 +96,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
 </p>
+<br />
 
-<br /><img align="center" src="./github_stats.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![download](https://github.com/opensrc0/opensrc0/assets/6891544/77217b71-8a63-44c1-a3b9-b307da33859f)
 
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img align="center" src="./github_stats.svg">
+</p>
 <!--
 **opensrc0/opensrc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
