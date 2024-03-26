@@ -5,6 +5,10 @@
 
 - 📚 Created a library called fe-pilot (Advance Web Component build top on React)
 
+- :m: Contribued in MDN documentation
+
+- 📚 Created a library called fe-theme (A styled component based CSS Framework)
+
 - 📫 How to reach me **opensrc0@gmail.com**
 
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connect with me:</h3>
@@ -16,9 +20,6 @@
 
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools:</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
