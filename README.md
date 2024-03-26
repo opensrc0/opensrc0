@@ -97,6 +97,7 @@
   </a> 
 </p>
 
+<br /><img align="center" src="./github_stats.svg">
 
 <!--
 **opensrc0/opensrc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
