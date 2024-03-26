@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
-- I’m currently working on **Reliance Jio Infocomm**
+- 👋 I’m currently working on **Reliance Jio Infocomm**
 
-- Created a library called fe-pilot (Advance Web Component build top on React)
+- 📚 Created a library called fe-pilot (Advance Web Component build top on React)
 
 - 📫 How to reach me **opensrc0@gmail.com**
 
