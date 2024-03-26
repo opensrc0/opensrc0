@@ -98,6 +98,8 @@
 </p>
 <br />
 
+
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![download](https://github.com/opensrc0/opensrc0/assets/6891544/77217b71-8a63-44c1-a3b9-b307da33859f)
 
@@ -106,7 +108,6 @@
 <p align="center">
   <img align="center" src="./github_stats.svg">
 </p>
-<!--
 **opensrc0/opensrc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
