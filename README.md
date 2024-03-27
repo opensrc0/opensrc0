@@ -15,7 +15,7 @@
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/opensrc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="opensrc0" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@opensrc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="opensrc0" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/himanshu-gupta-09156543/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-gupta-09156543/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/2980414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2980414" height="30" width="40" /></a>
 
