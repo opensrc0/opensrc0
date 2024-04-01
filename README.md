@@ -7,6 +7,8 @@
 
 - :m: Contribued in MDN documentation
 
+- <img align="botttom" src="https://github.com/opensrc0/opensrc0/assets/6891544/f17fff84-c1b2-4baf-87f0-ded0306bbaf5" alt="Medium Logo" height="15" width="15" /> Writing in medium, checkout ES feature series [here](https://medium.com/stackademic/es15-ecma-script-2024-5b316636b8ca)
+
 - 📚 Created a library called fe-theme (A styled component based CSS Framework)
 
 - 📫 How to reach me **opensrc0@gmail.com**
