@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👋 I’m currently working at **Reliance Jio Infocomm**
+- 👋 I’m currently working at **Reliance - Jio Platform Service**
 
 - 📚 Created a library called fe-pilot (Advance Web Component build top on React)
 
